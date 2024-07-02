@@ -8,3 +8,9 @@
 // Non-primitive (call by refrence)
 
 // Arrays, Objects, Functions
+
+// +++++++++++++++++++++++++++++++++++++++++++++
+
+// Memmory
+
+// Stack (Primitive), Heap (Non-primitive)
